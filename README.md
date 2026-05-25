@@ -6,7 +6,6 @@ The primary objective of the implementation is to compare the output sequences g
 Two types of compensation techniques are considered during the transformation process, Simple Compensation and Iterative Compensation (performed in descending order).
 The code evaluates and compares the output sequences for four different combinations of these compensation methods, as applied separately to the initial state (simple/iterative) and the output function (simple/iterative), to study their equivalence.
 
-All programs run on SageMath version 10.7, Release Date: 2025-08-09.
 
 
 In the github repository, there are four sage files support the above combinations:
